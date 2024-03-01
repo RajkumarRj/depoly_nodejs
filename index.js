@@ -24,7 +24,7 @@ app.use("/api/v1/job",jobroutes)
 
 // app.get();
 
-app.listen(5000 , ()=>{
+app.listen(10000 , ()=>{
     console.log("Server running successfully");
 })
 
